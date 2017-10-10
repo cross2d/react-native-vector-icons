@@ -13,5 +13,6 @@ node_modules
 bower_components
 
 # Xcode
-
 xcuserdata
+.idea
+
